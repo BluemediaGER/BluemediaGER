@@ -7,8 +7,8 @@ Feel free to look around in my repositories, you might even find something usefu
 
 ## Facts, facts, more facts!
 
-[![Bluemedia's GitHub stats](https://github-readme-stats.vercel.app/api?username=BluemediaGER&show_icons=true&theme=tokyonight&custom_title=Bluemedia%27s%20GitHub%20Stats)]  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BluemediaGER&layout=compact&theme=tokyonight)]
+![Bluemedia's GitHub stats](https://github-readme-stats.vercel.app/api?username=BluemediaGER&show_icons=true&theme=tokyonight&custom_title=Bluemedia%27s%20GitHub%20Stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BluemediaGER&layout=compact&theme=tokyonight)
 
 ## Contact me!
 You can find me on many social media platforms. I have summarized most of the links on my [overview page](https://bluemedia.dev/social). Feel free to contact me if you want to tell me something or just talk about cool computer stuff.
