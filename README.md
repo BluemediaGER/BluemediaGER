@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Oliver - sysadmin and open-source enthusiast. I like to dive into new technologies and try to use my learned skills to create something helpful for myself and others.
+I'm Oliver, a sysadmin and open-source enthusiast.
 
-Whether as an admin at my main job, at events of the Chaos Computer Club, or with my own AS in the DN42 network. I do lots of stuff with technology, all in all I'm a pretty geeky guy 🤓
+Whether as an admin at my main job, at events of the Chaos Computer Club, or with my own AS in the DN42 network: I do a lot of stuff with technology. And I'm always curious to discover even more. Using that knowledge I try to create something valuable for myself and others. Whether it is a small project of my own, or a contribution to a larger project.
 
 Feel free to look around in my repositories, you might even find something useful for you!
 
